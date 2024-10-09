@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Minimalist Shop</h1>
+        <h1>Minimalist Shop</h1>       // Prince Aku
       </header>
       <div className="wrapper">
         <div>
